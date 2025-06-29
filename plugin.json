@@ -1,6 +1,6 @@
 {
-  "name": "Decky DoT DNS",
-  "author": "OHaiiBuzzle",
+  "name": "DeckyDate",
+  "author": "Cramer",
   "flags": [
     "root"
   ],
@@ -8,10 +8,10 @@
   "publish": {
     "tags": [
       "root",
-      "networking",
-      "dns"
+      "date",
+      "time"
     ],
-    "description": "A plugin to override the systemd-resolved config from Decky.",
-    "image": "https://raw.githubusercontent.com/ohaiibuzzle/decky-dot-dns/refs/heads/senpai/github_res/plugin-image.jpg"
+    "description": "A plugin to override the system date/time",
+    "image": "https://raw.githubusercontent.com/Vegita2/decky-date-change/refs/heads/senpai/github_res/plugin-image.jpg"
   }
 }

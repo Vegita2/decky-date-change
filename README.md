@@ -1,3 +1,3 @@
-# Decky DNS Settings
+# Decky Date Settings
 
-A plugin to override the systemd-resolved config file and enable features such as DNS over TLS from Decky
+A plugin to override the system date settings
