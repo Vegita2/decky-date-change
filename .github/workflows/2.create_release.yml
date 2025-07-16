@@ -35,4 +35,4 @@ jobs:
           body: ${{ github.event.head_commit.message }}
           draft: false
           prerelease: true
-          files: "./Decky DNS Settings.zip"
+          files: "./DeckyDate.zip"
